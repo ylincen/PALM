@@ -1,4 +1,5 @@
-The code is now available at: https://github.com/ylincen/PALM; 
+Code for the paper: Yang, Lincen, Mitra Baratchi, and Matthijs van Leeuwen. "Unsupervised discretization by two-dimensional mdl-based histogram." arXiv preprint arXiv:2006.01893 (2020). (Revision submitted for review to Springer Machine Learning Journal.)
+
 
 General info: 
 - The code is mostly written in R; a small part is written in C++ (via Rcpp), which corresponds to the dynamic programming algorithm; 
