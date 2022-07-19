@@ -14,8 +14,8 @@ dplyr, ggplot2, gmp, MASS, MCMCpack, data.table, foreach, doParallel, ks, igraph
 ===========================================================================================
 
 To run the experiment/case study code, you can (NOTE: the real-world datasets used for case study are too large to upload here, so I only upload the code. The link for downloading/requesting the data can be found in the paper):
-- navigate to the project folder "PALM-code-MLJ" using the command line, and then use "Rscript filename". Or, 
-- open the corresponding code using RStudio, but make sure to set the working directory to be the project folder, using setwd(). E.g., on my computer, it is setwd("~/Dropbox/PALM-code-MLJ"). 
+- navigate to the project folder "PALM" using the command line, and then use "Rscript filename". Or, 
+- open the corresponding code using RStudio, but make sure to set the working directory to be the project folder, using setwd(). E.g., on my computer, it is setwd("~/Dropbox/PALM"). 
 
 ===========================================================================================
 
