@@ -22,7 +22,7 @@ Each folder exp1 -- exp5 within the experiment folder corresponds to one experim
 
 ===========================================================================================
 
-The DinoFun / POI_retrieval_data / ams folder within the "case" folder corresponds to each 3 real-world dataset used in the paper, i.e., the amusement park data, the taxi destinations, and the Amsterdam housing data. 
+The real-world datasets used for case study are too large to upload here, but only the code. The link for the downloading the data can be found in the paper. 
 
 ===========================================================================================
 
